@@ -61,8 +61,8 @@ Snap.plugin(function (Snap, Element, Paper, glob, Fragment) {
      **
      * Draws a circle
      **
-     - x (number) x coordinate of the centre
-     - y (number) y coordinate of the centre
+     - cx (number) x coordinate of the centre
+     - cy (number) y coordinate of the centre
      - r (number) radius
      = (object) the `circle` element
      **
